@@ -1,14 +1,15 @@
 # Fdb version 4
-["pdflatex"] 1729169873.84596 "c:/Users/jeand/Overleaf2/test/main.tex" "build/main.pdf" "main" 1729169874.22597 0
+["pdflatex"] 1729171816.23818 "c:/Users/jeand/Overleaf2/test/main.tex" "build/main.pdf" "main" 1729171816.61453 0
   "C:/Users/jeand/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1729168526 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/jeand/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1729168592 11948198 3aaaecfb8390b6e3bd137d035ec5cd03 ""
+  "C:/Users/jeand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1247596667 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "C:/Users/jeand/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/jeand/AppData/Local/Programs/MiKTeX/tex/latex/base/article.cls" 1719393830 20144 67a5f8e0f9e445e8ec6834e595cebdc9 ""
   "C:/Users/jeand/AppData/Local/Programs/MiKTeX/tex/latex/base/size10.clo" 1719393830 8448 358bf3de18513f057a13bdc6e6770c41 ""
   "C:/Users/jeand/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1716480499 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
-  "build/main.aux" 1729169874 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "c:/Users/jeand/Overleaf2/test/main.tex" 1729169872 102 ce9d3d057de7fcf705572968ba8f7255 ""
-  "main.tex" 1729169872 102 ce9d3d057de7fcf705572968ba8f7255 ""
+  "build/main.aux" 1729171816 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "c:/Users/jeand/Overleaf2/test/main.tex" 1729171815 156 49c488647a9bfa40d40cd2488b037c26 ""
+  "main.tex" 1729171815 156 49c488647a9bfa40d40cd2488b037c26 ""
   (generated)
   "build/main.aux"
   "build/main.log"
